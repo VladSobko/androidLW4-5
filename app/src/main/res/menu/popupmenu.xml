@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menugroup1" >
+        <item
+            android:id="@+id/menu1"
+            android:title="Перший екран" />
+        <item
+            android:id="@+id/menu2"
+            android:title="Другий екран" />
+        <item
+            android:id="@+id/menu3"
+            android:title="Інформація" />
+        <item
+            android:id="@+id/menu4"
+            android:title="Змінити колір">
+
+        </item>
+        <item
+            android:id="@+id/menu5"
+            android:title="Toast з малюнком">
+
+        </item>
+    </group>
+</menu>

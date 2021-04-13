@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/page1"
+        android:title="Перший екран" />
+    <item
+        android:id="@+id/page2"
+        android:title="Другий екран" />
+
+    <item
+        android:id="@+id/showDetails"
+        android:title="Показати дані" />
+
+    <item
+        android:id="@+id/changeColor"
+        android:title="Змінити колір" />
+
+    <item
+        android:id="@+id/rotate"
+        android:title="Повернути екран" />
+</menu>
